@@ -7,7 +7,7 @@
 ##Steps
 
 * Recall how `merge` works
-* **Pseudocode before writing any Ruby**
+* **Pseudocode before!**
 * Run `rspec` in this directory to see your failing tests
 * Implement your code in Ruby in `merge.rb`
 * Pass the tests in the `/spec` directory
