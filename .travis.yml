@@ -3,5 +3,3 @@ rvm:
   - 1.9.3
 script: rspec spec
 sudo: required
-before_install:
-	- bundle install
